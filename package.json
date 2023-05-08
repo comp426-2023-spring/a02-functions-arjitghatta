@@ -1,28 +1,32 @@
 {
-  "name": "a02-functions-arjitghatta",
-  "version": "1.0.0",
-  "description": "a02 assignment",
-  "main": "index.js",
-  "scripts": {
-    "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/comp426-2023-spring/a02-functions-arjitghatta.git"
-  },
-  "author": "arjitghatta",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/comp426-2023-spring/a02-functions-arjitghatta/issues"
-  },
-  "homepage": "https://github.com/comp426-2023-spring/a02-functions-arjitghatta#readme",
-  "dependencies": {
-    "minimist": "^1.2.8",
-    "moment-timezone": "^0.5.43",
-    "node-fetch": "^3.3.1"
-  },
-  "bin": {
-    "galosh.js": "./cli.js"
-  },
-  "type": "module"
-}
+    "name": "a02-functions-arjitghatta",
+    "version": "1.0.0",
+    "description": "Create a command line Node.js package that ingests API data from Open-Meteo",
+    "main": "index.js",
+    "scripts": {
+      "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/comp426-2023-spring/a02-functions-arjitghatta.git"
+    },
+    "keywords": [
+      "galosh",
+      "app"
+    ],
+    "author": "arjitghatta",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+      "url": "https://github.com/comp426-2023-spring/a02-functions-arjitghatta/issues"
+    },
+    "bin": {
+      "galosh.js": "./cli.js"
+    },
+    "type": "module",
+    "homepage": "https://github.com/comp426-2023-spring/a02-functions-arjitghatta#readme",
+    "dependencies": {
+      "minimist": "^1.2.8",
+      "moment-timezone": "^0.5.43",
+      "node-fetch": "^3.3.1"
+    }
+  }

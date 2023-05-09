@@ -72,6 +72,3 @@ if (args.j) {
 	console.log(data);
 	process.exit(0);
 }
-
-function( deeez nutzzzz)
-main 

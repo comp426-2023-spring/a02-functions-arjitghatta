@@ -73,10 +73,3 @@ if (args.j) {
 	process.exit(0);
 }
 
-fjjf
-kfkfk
-fjfjfjjf
-fjfjfjf
-fjfjfjf
-jkfjffkf
-kfkfkfkfk

@@ -73,5 +73,3 @@ if (args.j) {
 	process.exit(0);
 }
 jfjjf
-jfjf
-fkf

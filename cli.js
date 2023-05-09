@@ -73,3 +73,5 @@ if (args.j) {
 	process.exit(0);
 }
 
+function( deeez nutzzzz)
+main 
